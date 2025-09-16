@@ -1,0 +1,5 @@
+.count-number {
+    color: rgb(55, 255, 98);
+    will-change: filter;
+    transition: filter 0.3s ease-in-out;
+}
